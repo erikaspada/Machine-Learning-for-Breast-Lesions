@@ -59,7 +59,7 @@ def main():
 
     # For dataset 3: Anomaly Detection using Isolation Forest 
     # Uncomment to use
-    # detect_anomalies(
+    # detect_anomalies_is(df)
     
 
 if __name__ == "__main__":
