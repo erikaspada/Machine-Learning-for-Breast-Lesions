@@ -4,7 +4,7 @@ from sklearn.ensemble import IsolationForest
 from sklearn.decomposition import PCA
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, ConfusionMatrixDisplay
 
-def detect_anomalies(df):
+def detect_anomalies_is(df):
     features = df.drop(columns=['Upgrade'])
     X = features.values
 
