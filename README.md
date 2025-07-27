@@ -1,5 +1,6 @@
 # Breast Lesion Classification Pipeline
 
+Repository for Master Degree Thesis. Please note that Input data are not availablle due to privacy.
 This project implements a machine learning pipeline for classifying breast lesions B3 using radiomic features extracted from mammography images. The pipeline includes:
 
 - Image preprocessing and mask creation
