@@ -13,7 +13,7 @@ This project implements a machine learning pipeline for classifying breast lesio
 - Model training with hyperparameter tuning using GridSearchCV
 - Visualization of clustering results and class distributions
 
-## Project Structure
+## Repository Structure
 The `config` folder contains:
 - `database_configs.py`: Database configurations.
   
