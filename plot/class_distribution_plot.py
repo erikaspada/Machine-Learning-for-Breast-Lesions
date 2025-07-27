@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+import seaborn as sns
 def plot_class_distribution(df, column_name):
     """
     Plots the distribution of a binary column ('Status' or 'Upgrade') using a bar plot.
